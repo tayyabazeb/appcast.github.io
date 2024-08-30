@@ -3,10 +3,10 @@
     <channel>
         <title>Update App</title>
         <item>
-            <title>Version 1.2.0</title>
-            <description>desc</description>
-           
-            <enclosure url="https://play.google.com/store/apps/details?id=uk.co.cityeats.customers" sparkle:version="1.2.0" sparkle:os="android" />
-        </item>
+        <title>Version 1.2.0</title>
+        <sparkle:version>1.2.0</sparkle:version>
+        <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
+    </item>
+       
     </channel>
 </rss>
