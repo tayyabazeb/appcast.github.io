@@ -3,9 +3,11 @@
     <channel>
         <title>Update App</title>
         <item>
-        <title>Version 1.2.0</title>
-        <sparkle:version>1.2.0</sparkle:version>
-        <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
+        <title>Version 2.1.0</title>
+        <description>desc Версия</description>
+        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=uk.co.cityeats.customers" sparkle:version="2.1.0" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
        
     </channel>
